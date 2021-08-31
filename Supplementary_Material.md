@@ -70,6 +70,7 @@ Used Bosch Smart Home Twinguard<sup>3</sup> | |
 **Additional life cycles** | **Number** |
 Life cycle of Bosch Smart Home Controller<sup>4</sup> | 1 |
 Life cycle of Alkaline batteries<sup>5</sup> | 30 |
+
 <sup>2</sup> Own modeling, see table 1.1.  
 <sup>3</sup> Own modeling, see table 1.6.  
 <sup>4</sup> Own modeling, see table 1.5.  
@@ -83,6 +84,7 @@ Assembly of Bosch Smart Home Controller<sup>6</sup> | 1 | p
 Electricity, low voltage {DE}, market for | 166.44 | kWh
 **Waste/Disposal Scenario** | |
 Used Bosch Smart Home Controller<sup>7</sup> | |
+
 <sup>6</sup> Own modeling, see table 1.2.  
 <sup>7</sup> Own modeling, see table 1.7.
 
@@ -136,6 +138,7 @@ Transport, freight train {GLO}\| market group for \| Cut-off, U | 0.0153 | tkm
 Transport, freight, light commercial vehicle {GLO}\| market group for transport, freight, light commercial vehicle \| Cut-off, U | 0.0096 | tkm
 Transport, freight, lorry, unspecified {GLO}\| market group for transport, freight, lorry, unspecified \| Cut-off, U | 0.31 | tkm
 Transport, freight, sea, container ship {GLO}\| market for transport, freight, sea, container ship \| Cut-off, U | 0.7368 | tkm
+
 <sup>8</sup> Own modeling, see table 1.8.
 
 ### Table 1.10: Disposal of Alkaline batteries (AA size)
@@ -182,12 +185,14 @@ Transport, freight, sea, container ship {GLO}\| market for transport, freight, s
 Transport, freight, inland waterways, barge {GLO}\| market group for transport, freight, inland waterways, barge \| Cut-off, U | 0.0199 | tkm
 **Outputs to technosphere. Waste treatment** | **Amount** | **Unit**
 Used Alkaline battery cell, treatment of<sup>9</sup> | 1 | kg
+
 <sup>9</sup> Own modeling, see table 1.10 
 
 ### Table 1.12: Assembly of Alkaline batteries (AA size)
 Materials / Assemblies | Amount | Unit
 -----------------------|--------|--------
 Battery cell, Alkaline, AA size {RoW}\| market for \| Cut-off, U<sup>10</sup> | 23 | g
+
 <sup>10</sup> Own modeling, see table 1.9.
 
 ### Table 1.13: Life cycle of Alkaline batteries (AA size)
@@ -196,6 +201,7 @@ Assembly | Amount | Unit
 Alkaline battery<sup>11</sup> | 1 | p
 **Waste/Disposal Scenario** | |
 Used Alkaline battery<sup>12</sup> | | 
+
 <sup>11</sup> Own modeling, see table 1.12.   
 <sup>12</sup> Own modeling, see table 1.14.
 
@@ -205,6 +211,7 @@ Waste specification | Amount | Unit
 Used Alkaline battery | 1 | ton
 **Waste streams remaining after separation** | **Percentage** |
 Used Alkaline battery cell, market for<sup>13</sup> | 100 % |
+
 <sup>13</sup> Own modeling, see table 1.11
 
 
@@ -274,6 +281,6 @@ Used Alkaline battery cell, market for<sup>13</sup> | 100 % |
 [6] Susana Xará, Manuel Fonseca Almeida, and Carlos Costa. 2014. Life cycle
 assessment of alternatives for recycling abroad alkaline batteries from Portugal. The International Journal of Life Cycle Assessment 19, 7 (2014), 1382–1408. https://doi.org/10.1007/s11367-014-0746-x
 
-[7] R. Hischier. 2020. market for used Li-ion battery, GLO, Allocation, cut-off by classification - unit, ecoinvent database, version 3.6. Accessed with SimaPro, version 9.1.1.1.
+[7] R. Hischier. 2020. market for used Li-ion battery, GLO, Allocation, cut-off by classification - unit, ecoinvent database, version 3.6. Accessed with SimaPro, version 9.1.1.1.
 
-[8] ecoinvent. 2020. market for used Ni-metal hydride battery, GLO, Allocation, cut-off by classification - unit, ecoinvent database, version 3.6. Accessed with SimaPro, version 9.1.1.1.
+[8] ecoinvent. 2020. market for used Ni-metal hydride battery, GLO, Allocation, cut-off by classification - unit, ecoinvent database, version 3.6. Accessed with SimaPro, version 9.1.1.1.
