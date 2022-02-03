@@ -157,7 +157,7 @@ Hydrochloric acid, without water, in 30 % solution state {RER}\| market for \| C
 Limestone, crushed, washed {RoW}\| market for limestone, crushed, washed \| Cut-off, U | 17 | kg
 **Inputs from technosphere: electricity/heat** | **Amount** | **Unit**
 Electricity, medium voltage {Europe without Switzerland}\| market group for \| Cut-off, U | 330 | kWh
-**Emissionen to air** | **Amount** | **Unit**
+**Emissions to air** | **Amount** | **Unit**
 Carbon monoxide, fossil | 25 | mg
 Nitrogen oxides | 30 | mg
 Lead | 0.0005 | mg
@@ -169,7 +169,7 @@ Furan | 0.002 | ng
 Sulfur dioxide | 3 | mg
 Hydrogen chloride | 0.55 | mg
 Particulates, < 2.5 | 0.5 | mg
-**Outputs zur Technosphäre. Abfälle und Emissionen zur Behandlung** | **Menge** | **Einheit**
+**Outputs to technosphere: Waste treatment** | **Amount** | **Unit**
 Scrap steel {Europe without Switzerland}\| market for scrap steel \| Cut-off, U | 150 | kg
 Average incineration residue {RoW}\| market for average incineration residue \| Cut-off, U | 33 | kg
 Wastewater, average {Europe without Switzerland}\| market for wastewater, average \| Cut-off, U | 9 | m<sup>3</sup>
@@ -237,14 +237,14 @@ Used Alkaline battery cell, market for<sup>13</sup> | 100 % |
 
 ### 2.2. Impact Assessment
 #### Characterization
-![Alt Image Text](Images_English/Characterization_Twinguard_Lifecycle.JPG "Characterization, created with SimaPro (version 9.1.1.1)")*Image 2.2.1: Characterization of Twinguard Lifecycle, created with SimaPro (version 9.1.1.1)*
+![Alt Image Text](Images_English/Characterisation.JPG "Characterization, created with SimaPro (version 9.1.1.1)")*Image 2.2.1: Characterization of Twinguard Lifecycle, created with SimaPro (version 9.1.1.1)*
 
 ### 2.3. Normalization
 #### Normalization with ReCiPe 2016 Midpoint (H)
-![Alt Image Text](Images_English/Normalization_Twinguard_Lifecycle_ReCiPe.JPG "Normalization with ReCiPe 2016 Midpoint (H), created with SimaPro (version 9.1.1.1)")*Image 2.3.1: Normalization of Twinguard Lifecycle with ReCiPe 2016 Midpoint (H), created with SimaPro (version 9.1.1.1)*
+![Alt Image Text](Images_English/Normalisation_ReCiPe.JPG "Normalization with ReCiPe 2016 Midpoint (H), created with SimaPro (version 9.1.1.1)")*Image 2.3.1: Normalization of Twinguard Lifecycle with ReCiPe 2016 Midpoint (H), created with SimaPro (version 9.1.1.1)*
 
 #### Normalization with ILCD 2011 Midpoint+
-![Alt Image Text](Images_English/Normalization_Twinguard_Lifecycle_ILCD.JPG "Normalization with ILCD 2011 Midpoint+, created with SimaPro (version 9.1.1.1)")*Image 2.3.2: Normalization with ILCD 2011 Midpoint+, created with SimaPro (version 9.1.1.1)*
+![Alt Image Text](Images_English/Normalisation_ILCD.JPG "Normalization with ILCD 2011 Midpoint+, created with SimaPro (version 9.1.1.1)")*Image 2.3.2: Normalization with ILCD 2011 Midpoint+, created with SimaPro (version 9.1.1.1)*
 
 ### 3. Analysis
 ### 3.1. Hotspot Analysis
